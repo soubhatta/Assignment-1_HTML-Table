@@ -1,0 +1,25 @@
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+
+  text-align: center;
+  width: 60%;
+  height: 60%;
+}
+.heading {
+  background-color: yellow;
+}
+
+
+tr, th, td {
+  border: 1px solid black;
+}
+.timings {
+  background-color: rgb(171, 168, 168);
+}
+div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
